@@ -6,19 +6,19 @@
 
 - 🔭 I’m currently working on **ATI Limited.**
 
-- 🌱 I’m currently learning **React, Docker**
+- 🌱 I’m currently learning **Vue**
 
-- 🤝 I’m looking for help with **a React developer (Advance).**
+- 🤝 I’m looking for help with **a Vue developer (Advance).**
 
 - 👨‍💻 All of my projects are available at Notify, Mailing, Payment Gateway, Broadcasting etc.
 
-- 🔧 Tools - VSCode, Docker or Xampp or Wampp, Postman.
+- 🔧 Tools - VSCode, Docker or Xampp or Wampp, Postman, ToadForOracle.
 
-- 💬 Ask me about **PHP-Laravel**
+- 💬 Ask me about **PHP-Laravel, Vue, Git & Anything else**
 
 - 📫 How to reach me **mdshohaghossain8080@gmail.com**
 
-- ⚡ Fun fact **I'm single 😄**
+- ⚡ Fun fact **I'm Married 😄**
   
 - 😉 Check out my portfolio website [here]()  
 
