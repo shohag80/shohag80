@@ -6,19 +6,19 @@
 
 - 🔭 I’m currently working on **ATI Limited.**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **NextJs**
 
-- 🤝 I’m looking for help with **a Vue developer (Advance).**
+- 🤝 I’m looking for help with **a Next developer (Advance).**
 
 - 👨‍💻 All of my projects are available at Notify, Mailing, Payment Gateway, Broadcasting etc.
 
 - 🔧 Tools - VSCode, Docker or Xampp or Wampp, Postman, ToadForOracle.
 
-- 💬 Ask me about **PHP-Laravel, Vue, Git & Anything else**
+- 💬 Ask me about **PHP-Laravel, Vue, Next, Git & Anything else**
 
 - 📫 How to reach me **mdshohaghossain8080@gmail.com**
 
-- ⚡ Fun fact **I'm Married 😄**
+- ⚡ Fun fact **When I eat tea, my tongue burns. 😄**
   
 - 😉 Check out my portfolio website [here]()  
 
@@ -53,6 +53,9 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="40"/> 
     </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://tailwindcss.com/favicons/favicon-32x32.png?v=4" alt="bootstrap" width="50" height="40"/> 
+    </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
@@ -70,7 +73,13 @@
     </a> 
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://vuejs.org/logo.svg" alt="VueJs" width="40" height="40"/> 
-    </a> 
+    </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://nextjs.org/favicon.ico?favicon.d29c4393.ico" alt="VueJs" width="40" height="40"/> 
+    </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://react.dev/favicon-32x32.png" alt="VueJs" width="40" height="40"/> 
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
@@ -88,6 +97,9 @@
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="mongoDB" width="40" height="40"/> 
+    </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.oracle.com/asset/web/favicons/favicon-32.png" alt="mongoDB" width="40" height="40"/> 
     </a>
 </p>
 
@@ -110,11 +122,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shohag80&count_private=true" alt="github status">
 </p>
-
-<hr/>
-
-<h3 align="center">Visitor Count</h3>
-<br/>
-<p align="center"> 
-<a href="https://github.com/shohag80"><img src="https://profile-counter.glitch.me/shohag80/count.svg" style="height:auto; width:300px;"/></a><br/>
-<br/>
