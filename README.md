@@ -10,11 +10,15 @@
 
 - 🤝 I’m looking for help with **a Next developer (Advance).**
 
-- 👨‍💻 All of my projects are available at Notify, Mailing, Payment Gateway, Broadcasting etc.
+- 👨‍💻 All of my projects are available at Mailing, Payment Gateway, Broadcasting, Caching etc.
 
-- 🔧 Tools - VSCode, Docker or Xampp or Wampp, Postman, ToadForOracle.
+- 🔧 Tools - VSCode, Docker, Xampp & Wampp, Postman, ToadForOracle.
+  
+- 🔧 Dev Tools - Puti, C-panel.
 
-- 💬 Ask me about **PHP-Laravel, Vue, Next, Git & Anything else**
+- 🖥️ Operating System- Linux, Windows.
+
+- 💬 Ask me about **PHP-Laravel, Next, Vue, Git & Anything else about Programming**
 
 - 📫 How to reach me **mdshohaghossain8080@gmail.com**
 
